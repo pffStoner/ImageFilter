@@ -1,0 +1,8 @@
+#canvas{
+	background: grey;
+	width: 100%;
+}
+
+.btn-disabled{
+	background-color: white !important;
+}
